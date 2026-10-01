@@ -3,6 +3,7 @@ import bykeaImage from "../assets/bykea.jpg";
 import stitchImage from "../assets/stitch.jpg";
 import madicareImage from "../assets/madicare.png";
 import calculatorImage from "../assets/calculator.png";
+import databaseImage from "../assets/database.png";
 
 
 function Projects() {
@@ -63,8 +64,8 @@ function Projects() {
       description:
         "A full-stack project for storing and managing personal information.",
       tech: "React • Node.js • Express • MySQL",
-      link: "https://github.com/abduljaleelbhutto250/Personal-Management-System",
-      image: personalImage,
+      link: "https://github.com/abduljaleelbhutto250/Personal-Information-Database.git",
+      image: databaseImage,
     }
   ];
 
